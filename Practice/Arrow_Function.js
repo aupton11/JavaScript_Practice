@@ -12,3 +12,7 @@
 
 // let myArrow=a=>a;
 // console.log(myArrow("john"));
+(function(){
+    console.log("hello");
+})();
+/// functon without nameis also called anonmus function
